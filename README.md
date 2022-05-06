@@ -1,4 +1,4 @@
-# deautall esp8266
+# deauthall esp8266
 🔩Firmware for ESP8266🔩
 
 
